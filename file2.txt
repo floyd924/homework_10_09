@@ -1,0 +1,2 @@
+#here is text in file 2
+puts "hello world! I am file 2"
