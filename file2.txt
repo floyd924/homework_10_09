@@ -5,3 +5,9 @@ puts "hello world! I am file 2"
 here is a third change, do you still remmeber?
 
 another edit at 4pm before I leave
+
+
+another check to remind myself how to do this
+I should practice my typing on a different screen tonight so I cannot see my hands moving at all
+
+toggle soft wrap!
